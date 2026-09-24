@@ -5,8 +5,8 @@ All my public packages are available on [Vieolo](https://github.com/vieolo)
 Work with Go, Python, Dart, Typescript, and hopefully more Rust
 
 Currently working on Vieolo:
-- ReChive apps for user-facing document management, available on Web, iOS, macOS, and Android
-- UDEN (in private beta) for blind-integration document exchange
+- ReChive apps for communication-based document management, available on Web, iOS, macOS, and Android
+- RePloyee for document management of employees, available on Web, with mobile and desktop apps coming soon
 
 Write some articles on [here](https://vieolo.com/dev)
 <!--
